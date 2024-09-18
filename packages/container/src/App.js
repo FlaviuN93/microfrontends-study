@@ -1,5 +1,5 @@
 import React from 'react'
-import MarketingApp from './components/MarketingApp'
+import MarketingFeature from './components/MarketingFeature'
 
 export default () => {
 	return (
@@ -7,7 +7,7 @@ export default () => {
 			<h1>Hi from container</h1>
 			<hr />
 			<h2>Hleogpfdlpogfdl</h2>
-			<MarketingApp />
+			<MarketingFeature />
 		</div>
 	)
 }
