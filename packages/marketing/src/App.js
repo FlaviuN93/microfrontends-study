@@ -12,7 +12,6 @@ export default () => {
 					<Switch>
 						<Route exact path='/pricing' component={Pricing} />
 						<Route path='/' component={Landing} />
-						<h2>hello</h2>
 					</Switch>
 				</BrowserRouter>
 			</StylesProvider>
